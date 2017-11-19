@@ -1,1 +1,1 @@
-Currently learning how to congifure and use git inside of iterm and sublime text. It is a little confusing when your team name has "git" in it.
+Currently learning how to congifure and use git inside of iterm and sublime text. It is a little confusing when your team name has "git" in it. cheat sheets help immensenly. 
